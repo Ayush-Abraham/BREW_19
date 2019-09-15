@@ -1,0 +1,1 @@
+gunicorn --bind=0.0.0.0 --timeout 600 brew2:cloud_VS_azure_app
